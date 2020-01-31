@@ -1,33 +1,4 @@
 # Engineering for Human Factors V12: Stress, Workload, Safety
-
-* [Lecture Objectives](#Lecture Objectives)
-* [cumulative trauma disorders](#cumulative trauma disorders)
-* [Sub-items](#sub-items)
-* [Referring to Items](#referring-to-items)
-	- [Get All Items](#get-all-items)
-	- [Get Sub-items of the Item](#get-sub-items-of-the-item)
-	- [Magic Where Methods](#magic-where-methods)
-* [Referring to Menu Objects](#referring-to-menu-instances)
-* [HTML Attributes](#html-attributes)
-* [Manipulating Links](#manipulating-links)
-	- [Link's Href Property](#links-href-property)
-* [Active Item](#active-item)
-	- [RESTful URLs](#restful-urls)
-	- [URL Wildcards](#url-wildcards)
-* [Inserting a Separator](#inserting-a-separator)
-* [Append and Prepend](#append-and-prepend)
-* [Meta Data](#meta-data)
-* [Manipulating The Items](#manipulating-the-items)
-* [Sorting the Items](#sorting-the-items)
-* [Rendering](#rendering)
-    - [Built-in Renderers](#built-in-renderers)
-        - [Render As UL](#render-as-ul)
-        - [Render As OL](#render-as-ol)
-        - [Render As Div](#render-as-div)
-	- [Custom Renderers](#custom-renderers)
-* [Authorization](#authorization)
-* [Configuration](#configuration)
-
 ## Lecture Objectives
 - Understand the causes of cumulative trauma disorders and how this relates to the physical design of workspaces and tools
 - list the types, causes, and consequences of stress
@@ -60,4 +31,9 @@
 ### Avoidance/Mitigations
 - Evaluate Work Area
   - Awkward positions caused by certain items and work practices in can be prevented.
-
+- Take periodic rests and stretch
+- Replace existing equipment 
+  - The desks should have rounded edges 
+  - The chairs need the arm height and chair height to be adjustable, and give back support by having a tilt adjustment 
+  - Wrist rests can be added to the keyboards and mouse to help promote a neutral wrist position
+  
