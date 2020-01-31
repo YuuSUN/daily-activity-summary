@@ -1,10 +1,8 @@
 # Engineering for Human Factors V12: Stress, Workload, Safety
 
-[Lecture Objectives](## Lecture Objectives)
-[cumulative trauma disorders](### cumulative trauma disorders)
-[Risk factors for CTDs](### Risk factors for CTDs)
-[Cumulative Trauma Disorders: Ischemia](### Cumulative Trauma Disorders: Ischemia)
-[Severity](### Severity)
+## Lecture Objectives
+## cumulative trauma disorders
+### Risk factors for CTDs
 
 ## Lecture Objectives
 - Understand the causes of cumulative trauma disorders and how this relates to the physical design of workspaces and tools
