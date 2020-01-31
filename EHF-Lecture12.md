@@ -28,5 +28,8 @@
 - Clumsy feeling
 - Pain going up into the body
 - Pain is worse at night 
+### Avoidance/Mitigations
+- Evaluate Work Area
+  - Awkward positions caused by certain items and work practices in can be prevented.
 
-[TOC]
+[TOC] 
