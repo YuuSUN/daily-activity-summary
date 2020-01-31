@@ -23,7 +23,7 @@
 ### Severity
 - Cumulative trauma disorders due to performance of repetitive tasks account for more than 50% of all occupational illness in the US today
 - Despite the proliferation of keyboards in modern life there has been no increase of CTS. The incidence remains at ~5%
-### Warning Sings 
+### Warning Signs 
 - Numbness and tingling
 - Clumsy feeling
 - Pain going up into the body
