@@ -35,7 +35,7 @@ ausgeprägt - Distinctiveness
 
 ## Deceptive UIs
 ### Persuasive technology 
-- Chane attitude or behaviors of the users
+- Change attitude or behaviors of the users
 - But not through coercion
 
 ### Dark Patterns 
