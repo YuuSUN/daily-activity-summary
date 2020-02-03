@@ -36,12 +36,12 @@ ausgeprägt - Distinctiveness
 ## Deceptive UIs
 ### Persuasive technology 
 - Chane attitude or behaviors of the users
-- But not through coercison
+- But not through coercion
 
 ### Dark Patterns 
 - Tricks used in apps that make you do things that you are not mean to 
 - Disguised ads
 
-## Smart Object 
+## Smart Objects 
 ### Context-awareness 
 Context-aware software uses the location of the user and have the awareness of the environment 
