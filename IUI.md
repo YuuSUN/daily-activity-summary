@@ -9,14 +9,14 @@ ausgeprägt - Distinctiveness
 - Limited short term memory 
 - Expectations too high 
 ## Syntax & Semantics 
-- describes the strcture of the sentense
+- Syntax describes the strcture of the sentense
 
 ## NLP 
 - Language detection
 - Theme detection
 - Summary 
 - Basis for translation
-- Named entity extration 
+- Named entity extraction 
 - Intention detection 
 
 ### Sentiment analysis 
