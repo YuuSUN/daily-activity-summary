@@ -22,7 +22,7 @@ ausgeprägt - Distinctiveness
 ### Sentiment analysis 
 - Break up a text in parts 
 - detect the sentiment 
-- give every sentence points 
+- grade every sentence 
 
 ### Two approaches to text summarization
 - Extraction
